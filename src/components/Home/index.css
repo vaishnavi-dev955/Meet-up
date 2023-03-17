@@ -1,0 +1,49 @@
+.Home-container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Register-button {
+  color: #ffffff;
+  font-size: 18px;
+  height: 40px;
+  width: 150px;
+  background-color: #3b82f6;
+  border: 0px solid;
+  font-family: 'Roboto';
+  border-radius: 10px;
+}
+
+.meetup {
+  height: 500px;
+  width: 500px;
+}
+
+.Home-heading {
+  color: #334155;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+.Home-description {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.Name-heading {
+  color: #2563eb;
+  font-size: 60px;
+  font-family: 'Roboto';
+}
+
+.category-description {
+  color: #334155;
+  font-size: 28px;
+  font-family: 'Roboto';
+}
